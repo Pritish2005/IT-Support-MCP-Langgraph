@@ -32,7 +32,7 @@
 #     print('The following tools were fetched from MCP server',tools)
    
 #     agent = create_react_agent(
-#         ChatGroq(groq_api_key='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', model_name='gemma2-9b-it'),
+#         ChatGroq(groq_api_key='', model_name='gemma2-9b-it'),
 #         tools=tools,
 #     )
 

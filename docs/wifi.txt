@@ -1,0 +1,2 @@
+1. Switch on and off the WiFi 30 times.
+2. Then remove the WiFi antenna.

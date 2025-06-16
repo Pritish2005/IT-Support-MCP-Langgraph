@@ -1,0 +1,4 @@
+To fix VPN issues:
+1. Check credentials.
+2. Ensure the network is stable.
+3. Restart the VPN client.
